@@ -1,0 +1,14 @@
+{
+  "name": "deployd-ad",
+  "version": "1.0.0",
+  "description": "A very simple module for authenticating a user against active directory (to be used in deployd's user collection login event)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avery deGruchy",
+  "license": "MIT",
+  "dependencies": {
+    "activedirectory": "^0.7.2"
+  }
+}
