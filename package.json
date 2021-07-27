@@ -6,9 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Avery deGruchy",
+  "author": {
+    "name": "Avery deGruchy"
+  },
   "license": "MIT",
   "dependencies": {
     "activedirectory": "^0.7.2"
-  }
+  },
+  "gitHead": "e1739f3fa22eec3e3ab3ba6a1078753393760d36",
+  "readme": "# deployd-ad\r\nA very simple module for authenticating a user against active directory (to be used in deployd's user collection login event). This is custom built and not intended for general use.\r\n",
+  "readmeFilename": "README.md",
+  "_id": "deployd-ad@1.0.0",
+  "_shasum": "e14e4f12b27f5e788899e8ed7e1c7aec9bbe92a5",
+  "_from": "git+https://github.com/adegruchy/deployd-ad.git",
+  "_resolved": "git+https://github.com/adegruchy/deployd-ad.git#e1739f3fa22eec3e3ab3ba6a1078753393760d36"
 }
